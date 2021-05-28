@@ -1,4 +1,4 @@
-### Hi there 👋 I am GalardoDev, also known as Galardo.
+### Hi there 👋
 
 <!--
 **GalardoDev/GalardoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+
+× I am GalardoDev, also known as Galardo.
+× Mainly working with C# and Pawn.
+× Contact: GalardoDev#6822 (at Discord).
