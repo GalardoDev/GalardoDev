@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### About Me
 
-× I am GalardoDev, also known as Galardo.
-× Mainly working with C# and Pawn.
-× Contact: GalardoDev#6822 (at Discord).
+- I am GalardoDev, also known as Galardo.
+- Mainly working with C# and Pawn.
+- Contact: GalardoDev#6822 (at Discord).
