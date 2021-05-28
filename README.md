@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am GalardoDev, also known as Galardo.
 
 <!--
 **GalardoDev/GalardoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
